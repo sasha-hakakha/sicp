@@ -2,7 +2,7 @@
   #:export (println))
 
 ;; TODO take list of args
-:: NOTE: something about this feels wrong...
+;; NOTE: something about this feels wrong...
 (define (println x)
   (display x)
   (newline))
