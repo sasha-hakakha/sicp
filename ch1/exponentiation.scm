@@ -11,7 +11,6 @@
 (define (exp-iter b n)
   (exp 1 b n))
 
-(println (exp-iter 6 9))
 
 	
 	
